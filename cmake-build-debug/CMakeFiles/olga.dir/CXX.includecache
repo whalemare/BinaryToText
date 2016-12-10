@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anton/ClionProjects/olga/Person.cpp
+Person.h
+C:/Users/Anton/ClionProjects/olga/Person.h
+
+C:/Users/Anton/ClionProjects/olga/Person.h
+string
+-
+
+C:/Users/Anton/ClionProjects/olga/main.cpp
+iostream
+-
+Person.h
+C:/Users/Anton/ClionProjects/olga/Person.h
+

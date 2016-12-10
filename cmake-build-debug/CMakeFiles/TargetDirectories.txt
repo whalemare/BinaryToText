@@ -1,0 +1,3 @@
+C:/Users/Anton/ClionProjects/olga/cmake-build-debug/CMakeFiles/olga.dir
+C:/Users/Anton/ClionProjects/olga/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anton/ClionProjects/olga/cmake-build-debug/CMakeFiles/rebuild_cache.dir
