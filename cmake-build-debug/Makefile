@@ -122,6 +122,33 @@ olga/fast:
 	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/build
 .PHONY : olga/fast
 
+Converter.obj: Converter.cpp.obj
+
+.PHONY : Converter.obj
+
+# target to build an object file
+Converter.cpp.obj:
+	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/Converter.cpp.obj
+.PHONY : Converter.cpp.obj
+
+Converter.i: Converter.cpp.i
+
+.PHONY : Converter.i
+
+# target to preprocess a source file
+Converter.cpp.i:
+	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/Converter.cpp.i
+.PHONY : Converter.cpp.i
+
+Converter.s: Converter.cpp.s
+
+.PHONY : Converter.s
+
+# target to generate assembly for a file
+Converter.cpp.s:
+	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/Converter.cpp.s
+.PHONY : Converter.cpp.s
+
 Person.obj: Person.cpp.obj
 
 .PHONY : Person.obj
@@ -185,6 +212,9 @@ help:
 	@echo ... olga
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Converter.obj
+	@echo ... Converter.i
+	@echo ... Converter.s
 	@echo ... Person.obj
 	@echo ... Person.i
 	@echo ... Person.s

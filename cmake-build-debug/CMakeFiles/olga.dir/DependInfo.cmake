@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/Anton/ClionProjects/olga/Converter.cpp" "C:/Users/Anton/ClionProjects/olga/cmake-build-debug/CMakeFiles/olga.dir/Converter.cpp.obj"
   "C:/Users/Anton/ClionProjects/olga/Person.cpp" "C:/Users/Anton/ClionProjects/olga/cmake-build-debug/CMakeFiles/olga.dir/Person.cpp.obj"
   "C:/Users/Anton/ClionProjects/olga/main.cpp" "C:/Users/Anton/ClionProjects/olga/cmake-build-debug/CMakeFiles/olga.dir/main.cpp.obj"
   )

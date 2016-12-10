@@ -17,15 +17,16 @@ private:
     string lastname;
 
 public:
-    Person(string name, string lastname);
+//    Person(string name, string lastname);
+    Person(string name);
 
     void setName(string name);
 
-    void setLastName(string lastname);
+//    void setLastName(string lastname);
 
     string getName();
 
-    string getLastName();
+//    string getLastName();
 };
 
 #endif //OLGA_PERSON_H

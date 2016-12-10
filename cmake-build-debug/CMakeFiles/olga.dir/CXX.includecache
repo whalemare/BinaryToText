@@ -6,6 +6,28 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/Anton/ClionProjects/olga/Converter.cpp
+fstream
+-
+vector
+-
+unordered_map
+-
+algorithm
+-
+Converter.h
+C:/Users/Anton/ClionProjects/olga/Converter.h
+fstream
+-
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Anton/ClionProjects/olga/Converter.h
+string.h
+-
+
 C:/Users/Anton/ClionProjects/olga/Person.cpp
 Person.h
 C:/Users/Anton/ClionProjects/olga/Person.h
@@ -19,4 +41,6 @@ iostream
 -
 Person.h
 C:/Users/Anton/ClionProjects/olga/Person.h
+Converter.h
+C:/Users/Anton/ClionProjects/olga/Converter.h
 

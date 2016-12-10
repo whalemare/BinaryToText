@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Anton/ClionProjects/olga/Converter.cpp">
+			<Option target="olga"/>
+		</Unit>
+		<Unit filename="C:/Users/Anton/ClionProjects/olga/Converter.h">
+			<Option target="olga"/>
+		</Unit>
 		<Unit filename="C:/Users/Anton/ClionProjects/olga/Person.cpp">
 			<Option target="olga"/>
 		</Unit>

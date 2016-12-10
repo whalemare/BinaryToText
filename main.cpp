@@ -1,11 +1,13 @@
 #include <iostream>
 #include "Person.h"
+#include "Converter.h"
 
 using namespace std;
 
 int main() {
-    Person *p = new Person("Olga", "Turkina");
+    Converter *converter = new Converter();
+    char *inp = (char *) "binaryOutput.bin";
+    char *out = (char *) "textOutput.txt";
 
-    cout << p->getLastName() << endl;
-    return 0;
+    return converter->convertToText(inp, out);
 }
