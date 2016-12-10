@@ -4,10 +4,13 @@
 CMakeFiles/olga.dir/Converter.cpp.obj: ../Converter.cpp
 CMakeFiles/olga.dir/Converter.cpp.obj: ../Converter.h
 
-CMakeFiles/olga.dir/Person.cpp.obj: ../Person.cpp
-CMakeFiles/olga.dir/Person.cpp.obj: ../Person.h
+CMakeFiles/olga.dir/List.cpp.obj: ../List.cpp
+CMakeFiles/olga.dir/List.cpp.obj: ../List.h
+CMakeFiles/olga.dir/List.cpp.obj: ../Mass.h
+
+CMakeFiles/olga.dir/Mass.cpp.obj: ../Mass.cpp
+CMakeFiles/olga.dir/Mass.cpp.obj: ../Mass.h
 
 CMakeFiles/olga.dir/main.cpp.obj: ../Converter.h
-CMakeFiles/olga.dir/main.cpp.obj: ../Person.h
 CMakeFiles/olga.dir/main.cpp.obj: ../main.cpp
 

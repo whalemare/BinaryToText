@@ -149,32 +149,59 @@ Converter.cpp.s:
 	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/Converter.cpp.s
 .PHONY : Converter.cpp.s
 
-Person.obj: Person.cpp.obj
+List.obj: List.cpp.obj
 
-.PHONY : Person.obj
+.PHONY : List.obj
 
 # target to build an object file
-Person.cpp.obj:
-	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/Person.cpp.obj
-.PHONY : Person.cpp.obj
+List.cpp.obj:
+	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/List.cpp.obj
+.PHONY : List.cpp.obj
 
-Person.i: Person.cpp.i
+List.i: List.cpp.i
 
-.PHONY : Person.i
+.PHONY : List.i
 
 # target to preprocess a source file
-Person.cpp.i:
-	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/Person.cpp.i
-.PHONY : Person.cpp.i
+List.cpp.i:
+	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/List.cpp.i
+.PHONY : List.cpp.i
 
-Person.s: Person.cpp.s
+List.s: List.cpp.s
 
-.PHONY : Person.s
+.PHONY : List.s
 
 # target to generate assembly for a file
-Person.cpp.s:
-	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/Person.cpp.s
-.PHONY : Person.cpp.s
+List.cpp.s:
+	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/List.cpp.s
+.PHONY : List.cpp.s
+
+Mass.obj: Mass.cpp.obj
+
+.PHONY : Mass.obj
+
+# target to build an object file
+Mass.cpp.obj:
+	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/Mass.cpp.obj
+.PHONY : Mass.cpp.obj
+
+Mass.i: Mass.cpp.i
+
+.PHONY : Mass.i
+
+# target to preprocess a source file
+Mass.cpp.i:
+	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/Mass.cpp.i
+.PHONY : Mass.cpp.i
+
+Mass.s: Mass.cpp.s
+
+.PHONY : Mass.s
+
+# target to generate assembly for a file
+Mass.cpp.s:
+	$(MAKE) -f CMakeFiles\olga.dir\build.make CMakeFiles/olga.dir/Mass.cpp.s
+.PHONY : Mass.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -215,9 +242,12 @@ help:
 	@echo ... Converter.obj
 	@echo ... Converter.i
 	@echo ... Converter.s
-	@echo ... Person.obj
-	@echo ... Person.i
-	@echo ... Person.s
+	@echo ... List.obj
+	@echo ... List.i
+	@echo ... List.s
+	@echo ... Mass.obj
+	@echo ... Mass.i
+	@echo ... Mass.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

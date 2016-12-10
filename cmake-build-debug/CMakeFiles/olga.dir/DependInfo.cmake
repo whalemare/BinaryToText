@@ -5,7 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Anton/ClionProjects/olga/Converter.cpp" "C:/Users/Anton/ClionProjects/olga/cmake-build-debug/CMakeFiles/olga.dir/Converter.cpp.obj"
-  "C:/Users/Anton/ClionProjects/olga/Person.cpp" "C:/Users/Anton/ClionProjects/olga/cmake-build-debug/CMakeFiles/olga.dir/Person.cpp.obj"
+  "C:/Users/Anton/ClionProjects/olga/List.cpp" "C:/Users/Anton/ClionProjects/olga/cmake-build-debug/CMakeFiles/olga.dir/List.cpp.obj"
+  "C:/Users/Anton/ClionProjects/olga/Mass.cpp" "C:/Users/Anton/ClionProjects/olga/cmake-build-debug/CMakeFiles/olga.dir/Mass.cpp.obj"
   "C:/Users/Anton/ClionProjects/olga/main.cpp" "C:/Users/Anton/ClionProjects/olga/cmake-build-debug/CMakeFiles/olga.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

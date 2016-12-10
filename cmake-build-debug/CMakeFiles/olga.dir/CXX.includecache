@@ -28,19 +28,37 @@ C:/Users/Anton/ClionProjects/olga/Converter.h
 string.h
 -
 
-C:/Users/Anton/ClionProjects/olga/Person.cpp
-Person.h
-C:/Users/Anton/ClionProjects/olga/Person.h
+C:/Users/Anton/ClionProjects/olga/List.cpp
+List.h
+C:/Users/Anton/ClionProjects/olga/List.h
+Mass.h
+C:/Users/Anton/ClionProjects/olga/Mass.h
 
-C:/Users/Anton/ClionProjects/olga/Person.h
+C:/Users/Anton/ClionProjects/olga/List.h
 string
+-
+Mass.h
+C:/Users/Anton/ClionProjects/olga/Mass.h
+
+C:/Users/Anton/ClionProjects/olga/Mass.cpp
+Mass.h
+C:/Users/Anton/ClionProjects/olga/Mass.h
+ostream
+-
+iostream
+-
+
+C:/Users/Anton/ClionProjects/olga/Mass.h
+stdio.h
+-
+string
+-
+iostream
 -
 
 C:/Users/Anton/ClionProjects/olga/main.cpp
 iostream
 -
-Person.h
-C:/Users/Anton/ClionProjects/olga/Person.h
 Converter.h
 C:/Users/Anton/ClionProjects/olga/Converter.h
 

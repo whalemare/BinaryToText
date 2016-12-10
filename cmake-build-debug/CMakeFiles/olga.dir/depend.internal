@@ -4,10 +4,13 @@
 CMakeFiles/olga.dir/Converter.cpp.obj
  C:/Users/Anton/ClionProjects/olga/Converter.cpp
  C:/Users/Anton/ClionProjects/olga/Converter.h
-CMakeFiles/olga.dir/Person.cpp.obj
- C:/Users/Anton/ClionProjects/olga/Person.cpp
- C:/Users/Anton/ClionProjects/olga/Person.h
+CMakeFiles/olga.dir/List.cpp.obj
+ C:/Users/Anton/ClionProjects/olga/List.cpp
+ C:/Users/Anton/ClionProjects/olga/List.h
+ C:/Users/Anton/ClionProjects/olga/Mass.h
+CMakeFiles/olga.dir/Mass.cpp.obj
+ C:/Users/Anton/ClionProjects/olga/Mass.cpp
+ C:/Users/Anton/ClionProjects/olga/Mass.h
 CMakeFiles/olga.dir/main.cpp.obj
  C:/Users/Anton/ClionProjects/olga/Converter.h
- C:/Users/Anton/ClionProjects/olga/Person.h
  C:/Users/Anton/ClionProjects/olga/main.cpp

@@ -86,10 +86,16 @@
 		<Unit filename="C:/Users/Anton/ClionProjects/olga/Converter.h">
 			<Option target="olga"/>
 		</Unit>
-		<Unit filename="C:/Users/Anton/ClionProjects/olga/Person.cpp">
+		<Unit filename="C:/Users/Anton/ClionProjects/olga/List.cpp">
 			<Option target="olga"/>
 		</Unit>
-		<Unit filename="C:/Users/Anton/ClionProjects/olga/Person.h">
+		<Unit filename="C:/Users/Anton/ClionProjects/olga/List.h">
+			<Option target="olga"/>
+		</Unit>
+		<Unit filename="C:/Users/Anton/ClionProjects/olga/Mass.cpp">
+			<Option target="olga"/>
+		</Unit>
+		<Unit filename="C:/Users/Anton/ClionProjects/olga/Mass.h">
 			<Option target="olga"/>
 		</Unit>
 		<Unit filename="C:/Users/Anton/ClionProjects/olga/main.cpp">
